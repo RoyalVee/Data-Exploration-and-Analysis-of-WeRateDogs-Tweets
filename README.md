@@ -1,4 +1,4 @@
-# Data-Exploration-and-Analysis-of-WeRateDogs-Tweets
+# Data Exploration and Analysis of WeRateDogs Tweets
 Data wrangling, analysis and visualizing of the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
 
 # Background
